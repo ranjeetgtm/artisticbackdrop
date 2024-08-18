@@ -38,13 +38,9 @@ Welcome to the Artistic Backdrop repository! This repository contains a curated 
 
 ## How to Use the Wallpapers
 
-1. Clone the Repository: Start by cloning this repository to your local machine using the following command:
-   ```
-   https://github.com/rafay99-epic/ArtisticBackdrop.git
-   ```
-
+1. Clone the Repository: Start by cloning this repository to your local machine
 2. Browse Categories: Explore the different categories in the repository and navigate to the specific folder of the category you are interested in.
-
+ma
 3. Download Wallpapers: Inside each category folder, you'll find a variety of wallpapers. Choose the ones you like and download them to your device.
 
 4. Set Wallpaper: Set your favorite wallpaper as your desktop background or use them on your mobile devices to personalize your experience.
